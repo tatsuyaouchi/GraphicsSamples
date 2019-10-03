@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <jp.ac.shohoku.s18b703.graphicsamples.CustomView
         android:id="@+id/CustomView"
         android:layout_width="fill_parent"
