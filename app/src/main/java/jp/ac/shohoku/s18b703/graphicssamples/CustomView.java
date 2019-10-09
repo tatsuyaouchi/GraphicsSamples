@@ -1,6 +1,9 @@
 package jp.ac.shohoku.s18b703.graphicssamples;
 
 import android.content.Context;
+
+ master
+
  master
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -52,6 +55,8 @@ public class CustomView extends View {
         canvas.drawBitmap(bmp02, 200, 400, p);
     }
 
+
+ master
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -68,4 +73,6 @@ class CustomView extends View {
         super(context, attrs, defStyle);
     }
 master
+master
+ master
 }
